@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	. "org.cland.zproxypool/core"
+	"org.cland.zproxypool/core"
 )
 
 func main() {
